@@ -1,1 +1,0 @@
-Java SpringFramework 중간 프로젝트 [편의점 POS 시스템 구현]
