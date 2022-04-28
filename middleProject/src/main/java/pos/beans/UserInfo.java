@@ -1,28 +1,30 @@
 package pos.beans;
 
-public class UserInfo { //각 '사용자' 정보 묶음 클래스 
-	
+public class UserInfo { //사용자 객체
 	//필드
-	private String userId;
-	private String userPA;
-	
-	//생성자
-	
-	
-	//get, set()
-	public String getUserId() {
-		return userId;
+	private String UserID;
+	private int UserPA;
+
+	//get,set()
+	public String getUserID() {
+		return UserID;
 	}
-	public void setUserId(String userId) {
-		this.userId = userId;
+
+	public void setUserID(String userID) {
+		UserID = userID;
 	}
-	public String getUserPA() {
-		return userPA;	}
-	public void setUserPA(String userPA) {
-		this.userPA = userPA;
+
+	public int getUserPA() {
+		return UserPA;
 	}
+
+	public void setUserPA(int userPA) {
+		UserPA = userPA;
+	}
+
+
 
 	
 	
-	//메소드
+	
 }
