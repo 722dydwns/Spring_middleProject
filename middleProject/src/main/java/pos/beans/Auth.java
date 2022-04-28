@@ -44,7 +44,6 @@ public class Auth { //계정기능 - 사용자 ID/PASSWORD 관리기능
 
 	}
 
-
 	//로그인 시, 사용자 입력값과 파일정보 읽고 값 비교 후 승인 처리
 	public void Login() {
 		

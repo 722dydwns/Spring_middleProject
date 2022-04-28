@@ -6,6 +6,7 @@ import org.springframework.context.annotation.Configuration;
 import pos.beans.ArticleInfo;
 import pos.beans.Auth;
 import pos.beans.Manage;
+import pos.beans.Sell;
 import pos.beans.UserInfo;
 
 @Configuration
@@ -28,6 +29,10 @@ public class PosConfigClass { //자바 설정 클래스
 	@Bean
 	public Manage manage()	{
 		return new Manage(articleInfo());
+	}
+	@Bean
+	public Sell sell() {
+		return new Sell(articleInfo());
 	}
 	
 }

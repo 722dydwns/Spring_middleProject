@@ -64,9 +64,10 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 		        data.put("1", new Object[] {"날짜", "상품명", "코드", "가격", "수량"}); 
 		        data.put("2", new Object[] {"04-28", "콜라", "P1234", "1200", "100"});
 		        data.put("3", new Object[] {"04-28", "오뚜기카레", "P1280", "2100", "99"});
-		        data.put("4", new Object[] {"04-28", "카카오", "P3124", "1100", "70"});
-		       
-		        data.put("5", new Object[] {articleInfo.getInputDate(), articleInfo.getPName(),articleInfo.getCode(), articleInfo.getPrice(), articleInfo.getCount()});
+		        data.put("4", new Object[] {"04-28", "카카오", "P3131", "1100", "70"});
+		        data.put("5", new Object[] {"04-28", "초코우유", "P3123", "1700", "220"});
+		        data.put("6", new Object[] {"04-28", "카카오", "P3124", "1100", "71"});		        
+		        data.put("7", new Object[] {articleInfo.getInputDate(), articleInfo.getPName(),articleInfo.getCode(), articleInfo.getPrice(), articleInfo.getCount()});
 		       
 		        //data에서 keySet 가져온다. 이 Set값들을 조회하면서 데이터를 Sheet에 입력
 		        Set<String> keyset = data.keySet();
@@ -93,7 +94,6 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 		        }catch (IOException e) {
 		        	e.printStackTrace();
 		        }
-		        
 		}
 		
 		//재고 리스트 가져오기
@@ -142,8 +142,6 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 	            e.printStackTrace();
 	        }
 	    }
-		
 
-		
 
 }
