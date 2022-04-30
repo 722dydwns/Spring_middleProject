@@ -10,6 +10,7 @@ import pos.beans.Manage;
 import pos.beans.Sell;
 import pos.beans.SellInfo;
 import pos.beans.UserInfo;
+import pos.beans.posSystem;
 
 @Configuration
 public class PosConfigClass { //자바 설정 클래스 
@@ -42,6 +43,10 @@ public class PosConfigClass { //자바 설정 클래스
 	@Bean
 	public SellInfo sellInfo() {
 		return new SellInfo();
+	}
+	@Bean
+	public posSystem posSystem() {
+		return new posSystem();
 	}
 	
 }
