@@ -4,7 +4,7 @@
 
 # 📍**기획보고서**
 ---
-
+<img width="521" alt="image" src="https://user-images.githubusercontent.com/39732720/167100692-8f8b3a66-1db1-4dec-9d94-ffd74f154bd1.png">
 
 ## ➡️ **전체 시스템 구성과 데이터 처리 방식 기획**
 
