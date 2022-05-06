@@ -4,7 +4,7 @@
 
 # 📍시스템 동작 알고리즘
 ---
-
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/39732720/167105304-9851c8af-c18f-4edc-8a2c-3e926ce6659e.png)
 
 # 📍**기획보고서**
 ---
