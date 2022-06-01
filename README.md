@@ -2,6 +2,33 @@
 
 ## 편의점 POS SYSTEM 간단히 구현하기 
 
+# Spring DI 의존 활용한 middle Project
+
+## 🟦 기존 회원 조회 기능
+
+
+## 🟦 로그인 기능
+
+
+## 🟦 회원가입 기능
+
+
+## 🟦 상품 입고 기능
+
+
+## 🟦 상품명 조회 기능
+
+
+## 🟦 재고 목록 출력 기능
+
+
+## 🟦 판매 & 계산 기능
+
+
+## 🟦 판매일 기준 총액 통계 기능
+
+
+
 # 📍시스템 동작 알고리즘
 ---
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/39732720/167105304-9851c8af-c18f-4edc-8a2c-3e926ce6659e.png)
