@@ -6,28 +6,36 @@
 
 ## 🟦 기존 회원 조회 기능
 
+![회원조회](https://user-images.githubusercontent.com/39732720/171303229-9e239845-32aa-4a92-9c38-be46597963b9.gif)
 
 ## 🟦 로그인 기능
 
+![로그인](https://user-images.githubusercontent.com/39732720/171303257-2e3fb9ba-d2d0-4e76-b488-56d86b7f1f3f.gif)
 
 ## 🟦 회원가입 기능
+
+![회원가입기능](https://user-images.githubusercontent.com/39732720/171303242-c529cd2b-d8c5-41fa-9a5d-e73528585647.gif)
 
 
 ## 🟦 상품 입고 기능
 
+![입고](https://user-images.githubusercontent.com/39732720/171303263-1373701f-4fb9-4623-8210-bfc6d1f62b61.gif)
 
 ## 🟦 상품명 조회 기능
 
+![상품조회](https://user-images.githubusercontent.com/39732720/171303266-520ab1b7-af53-462a-92aa-1dea45f7712e.gif)
 
 ## 🟦 재고 목록 출력 기능
 
+![목록출력](https://user-images.githubusercontent.com/39732720/171303261-c3b69c6b-7d6d-43ca-a51c-cf2cbda55794.gif)
 
 ## 🟦 판매 & 계산 기능
 
+![판매기능](https://user-images.githubusercontent.com/39732720/171303267-e34a4d9f-5cbd-4342-84f9-59d5d424063d.gif)
 
 ## 🟦 판매일 기준 총액 통계 기능
 
-
+![통계기능](https://user-images.githubusercontent.com/39732720/171303247-306fca30-fbc7-4337-9354-83b15d149707.gif)
 
 # 📍시스템 동작 알고리즘
 ---
