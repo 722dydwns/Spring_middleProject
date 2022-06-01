@@ -1,8 +1,4 @@
-# PosSystem_JavaSpring
-
-## 편의점 POS SYSTEM 간단히 구현하기 
-
-# Spring DI 의존 활용한 middle Project
+# Spring DI 의존 활용한 middle _PosSystem_JavaSpring
 
 ## 🟦 기존 회원 조회 기능
 
